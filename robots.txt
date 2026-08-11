@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-puzbwh.plcwin.xyz/sitemap.xml
